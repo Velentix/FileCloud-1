@@ -2,10 +2,10 @@
 # Made by Velentix.
 # Beta!
 chat &6Loading config from url...
-KillAura MaxCPS 15
-KillAura MinCPS 10
+KillAura MaxCPS 16
+KillAura MinCPS 11
 KillAura targetmode Single
-KillAura Range 5.7
+KillAura Range 6.3
 KillAura HurtTime 9
 KillAura KeepSprint true
 KillAura Swing true
