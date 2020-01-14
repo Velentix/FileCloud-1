@@ -1,7 +1,7 @@
 # LiquidBounce Config for MCCentral.
 # Made by Velentix.
 # Beta!
-
+chat &6Loading config from url...
 KillAura MaxCPS 15
 KillAura MinCPS 9
 KillAura targetmode Single
@@ -19,5 +19,18 @@ KillAura MaxTurnSpeed 40
 KillAura MinTurnSpeed 25
 KillAura SilentRotation true
 KillAura LivingRayCast true
-chat &a&lConfig loaded successfully.
+ChestStealer MinDelay 5
+ChestStealer MaxDelay 15
+ChestStealer TakeRandomized true
+ChestStealer AutoClose true
+ChestStealer AutoCloseMinDelay 50
+ChestStealer AutoCloseMaxDelay 80
+ChestStealer CloseOnFull true
+ChestStealer ChestTitle true
+Fly mode Vanilla
+Fly VanillaSpeed 0.2
+Tower mode Packet
+Criticals mode Jump
+chat &a&lThanks for using my config!
 chat &3Config by &aVelentix
+chat &3Last Update: &a14.01.2020
