@@ -1,0 +1,23 @@
+# LiquidBounce Config for MCCentral.
+# Made by Velentix.
+# Beta!
+
+KillAura MaxCPS 15
+KillAura MinCPS 9
+KillAura targetmode Single
+KillAura Range 4.50
+KillAura HurtTime 9
+KillAura KeepSprint true
+KillAura Swing true
+KillAura AutoBlock true
+KillAura BlockRate 5
+KillAura AAC true
+KillAura Predict true
+KillAura RayCast true
+KillAura RayCastIgnored true
+KillAura MaxTurnSpeed 40
+KillAura MinTurnSpeed 25
+KillAura SilentRotation true
+KillAura LivingRayCast true
+chat &a&lConfig loaded successfully.
+chat &3Config by &aVelentix
