@@ -3,9 +3,9 @@
 # Beta!
 chat &6Loading config from url...
 KillAura MaxCPS 15
-KillAura MinCPS 9
+KillAura MinCPS 10
 KillAura targetmode Single
-KillAura Range 4.50
+KillAura Range 5.7
 KillAura HurtTime 9
 KillAura KeepSprint true
 KillAura Swing true
@@ -22,6 +22,7 @@ KillAura LivingRayCast true
 ChestStealer MinDelay 5
 ChestStealer MaxDelay 15
 ChestStealer TakeRandomized true
+ChestStealer NoCompass false
 ChestStealer AutoClose true
 ChestStealer AutoCloseMinDelay 50
 ChestStealer AutoCloseMaxDelay 80
@@ -32,8 +33,8 @@ Fly VanillaSpeed 0.2
 Tower mode Packet
 Criticals mode Jump
 Velocity mode Simple
-Velocity Horizontal 0.15
-Velocity Vertical 0.35
+Velocity Horizontal 0.1
+Velocity Vertical 0.3
 chat &a&lThanks for using my config!
 chat &3Config by &aVelentix
 chat &3Last Update: &a14.01.2020
