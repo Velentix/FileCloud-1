@@ -31,6 +31,9 @@ Fly mode Vanilla
 Fly VanillaSpeed 0.2
 Tower mode Packet
 Criticals mode Jump
+Velocity mode Simple
+Velocity Horizontal 0.15
+Velocity Vertical 0.35
 chat &a&lThanks for using my config!
 chat &3Config by &aVelentix
 chat &3Last Update: &a14.01.2020
