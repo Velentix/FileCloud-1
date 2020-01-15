@@ -135,5 +135,5 @@ Tower TeleportGround true
 Tower TeleportNoMotion true
 targetDead true
 chat &5[WARNING] &3Vanilla &3Fly &3Kick &3is &3enabled.
-chat &3Config &3by &9Coccocoa
+chat &3Config &3by &9Velentix
 chat &3Latest &3Update &214.01.2020
